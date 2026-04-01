@@ -2,7 +2,7 @@
 pages: 1
 ---
 
-<b>Mavis, YEUNG Hiu Tung</b>
+## Mavis, YEUNG Hiu Tung
 
 _Marketing Campaign Specialist_
 
@@ -15,18 +15,18 @@ Digital marketing and e-commerce specialist with 2+ years across Trip.com, Pinko
 ### Marketing Campaign Specialist - Trip.com Group || Mar 2025 - Present
 
 - <b>Mega Sale Campaign Leadership</b>: Led Trip.com Mega Sale initiatives, achieving +95% YoY growth in hotel orders during the 2025 11.11 event through strategic planning, multi-channel execution, and audience-targeted promotions.
-- HK Offline Expo Pioneer: Acted as main PIC for Trip.com HK's first offline travel expo in 2026, initiating, organizing, managing, and executing the full event with no prior team expertise, driving leads and hybrid online-offline bookings.
-- Audience & Demand Analysis: Analyzed HK segments (families, millennials) and festival trends to align promotions with peak destinations/product.
-- Digital Asset Management: Designed/optimized online banners, concert exposure campaigns, EDMs, and landing pages with A/B testing for max CTR/conversions.
-- Cross-Team Collaboration: Partnered with HQ, operations, BI, vendors for seamless campaign delivery, SEO/PPC integration, and event logistics.
-- Performance Optimization: Tracked metrics (ROI, sales), delivered reports, and refined strategies based on data insights.
+- **HK Offline Expo Pioneer**: Acted as main PIC for Trip.com HK's first offline travel expo in 2026, initiating, organizing, managing, and executing the full event with no prior team expertise, driving leads and hybrid online-offline bookings.
+- **Audience & Demand Analysis**: Analyzed HK segments (families, millennials) and festival trends to align promotions with peak destinations/product.
+- **Digital Asset Management**: Designed/optimized online banners, concert exposure campaigns, EDMs, and landing pages with A/B testing for max CTR/conversions.
+- **Cross-Team Collaboration**: Partnered with HQ, operations, BI, vendors for seamless campaign delivery, SEO/PPC integration, and event logistics.
+- **Performance Optimization**: Tracked metrics (ROI, sales), delivered reports, and refined strategies based on data insights.
 
 ### Digital Marketing Specialist - Pinkoi (HK) Limited || Jul 2023 - Aug 2024
 
-- Online Campaign marketing: Planned, led and executed local and cross-regional online marketing campaigns to arouse brand awareness and drive GMV growth
-- Channel Marketing: Created 5 app pushes per day and 5 eDMs per week with precise segmentation and retargeting strategies, managed and monitored channel performance regularly
-- Data Analysis: Conducted rigorous and frequent data analysis from dashboards on initiative campaign performance and concluded insights on follow-up and potential action items to boost GMV, sessions, first-time buyers etc.
-- Cross-team Communication: Worked closely with teams from the HK office and other regions for marketing campaigns and offline campaigns
+- **Online Campaign marketing**: Planned, led and executed local and cross-regional online marketing campaigns to arouse brand awareness and drive GMV growth
+- **Channel Marketing**: Created 5 app pushes per day and 5 eDMs per week with precise segmentation and retargeting strategies, managed and monitored channel performance regularly
+- **Data Analysis**: Conducted rigorous and frequent data analysis from dashboards on initiative campaign performance and concluded insights on follow-up and potential action items to boost GMV, sessions, first-time buyers etc.
+- **Cross-team Communication**: Worked closely with teams from the HK office and other regions for marketing campaigns and offline campaigns
 
 ## Education
 
