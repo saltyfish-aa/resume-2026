@@ -1,7 +1,3 @@
----
-pages: 1
----
-
 ## Mavis, YEUNG Hiu Tung
 
 _Marketing Campaign Specialist_
