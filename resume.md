@@ -38,5 +38,4 @@ Digital marketing and e-commerce specialist with 2.5 years of experience across 
     - Level N2 (passed, the Japanese-Language Proficiency Test)
     - IELTS band score: 7.5/9.0
 - Skills: Translation, Project management, Cross-functional collaboration, Data-driven analysis, Multilingual communication, Integrated campaign planning
-
-$\color{white}{\text{Campaign execution,A/B testing,Excel / MS Office,Cross-team collaboration,Mandarin Chinese,Data analysis,Social media channel management,Growth mindset,Detail-oriented,Stakeholder management}}$
+- 
