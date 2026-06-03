@@ -10,19 +10,25 @@ Digital marketing and e-commerce specialist with 2.5 years of experience across 
 
 ### Marketing Campaign Specialist - Trip.com Group || Mar 2025 - Present
 
-- **Mega Sale Campaign Leadership**: Led Trip.com Mega Sale initiatives, achieving +95% YoY growth in hotel orders during the 2025 11.11 and 2026 3.3 Mega event through strategic planning, multi-channel execution, and audience-targeted promotions.
-- **HK Offline Expo Pioneer**: Acted as main PIC for Trip.com HK's first offline travel expo in 2026, initiating, organizing, managing, and executing the full event with no prior team expertise, driving leads and hybrid online-offline bookings.
-- **Audience & Demand Analysis**: Analyzed HK user segments (families, Gen Z) and festival trends to align promotions with peak destinations/products. 
-- **Digital Asset Management**: Designed/optimized app banners, concert exposure campaigns, EDMs, and landing pages with continuous A/B testing. Improved the CTR of the major ad spaces in the app by 1%.
-- **Cross-Team Collaboration**: Partnered with HQ, operations, BI, vendors for seamless campaign delivery, SEO/PPC integration, and event logistics.
-- **Performance Optimization**: Regularly tracked production trends of the product lines. Delivered in-depth performance reviews for key campaigns on site trends, mechanism efficiency and data insights for refining strategies in future campaigns.
+- Drove +95% YoY growth in hotel orders during the 11.11 & 3.3 Mega Sale through strategic multichannel execution and audience-targeted promotions
+- Pioneered Trip.com HK’s first offline travel expo, independently initiating, organising, and executing the full event to generate leads and hybrid online-offline bookings
+- Analysed Hong Kong user segments (families, Gen Z) and festival demand trends (11.11, CNY, Golden Week) to align promotions with peak travel periods
+- Optimised app banners, EDMs, concert exposure campaigns, and landing pages through continuous A/B testing, improving CTR on key in-app ad placements and lifting conversion rates across major campaign touchpoints
+- Partnered with HQ, operations, BI, and vendors to ensure seamless campaign delivery, integrating SEO/PPC strategy and managing event logistics
+- Regularly tracked campaign performance across site trends, mechanism efficiency, and key metrics, delivering in-depth post-campaign reviews to inform and refine future strategies
+
+### Senior Marketing Executive - Telford International Co. Ltd. || Oct 2024 - Mar 2025
+
+- Managed trade marketing for William Grant & Sons’ prestige portfolio, including The Balvenie and Glenfiddich, across Hong Kong retail and hospitality channels
+- Executed premium brand activations across Hong Kong retail, ensuring consistent brand positioning and luxury presentation standards
+- Partnered with key accounts to deliver experiential activations and educational programmes centred on product heritage and craftsmanship
 
 ### Digital Marketing Specialist - Pinkoi (HK) Limited || Jul 2023 - Aug 2024
 
-- **Online Campaign marketing**: Planned, led and executed local and cross-regional online marketing campaigns to arouse brand awareness and drive GMV growth
-- **Channel Marketing**: Created 5 app pushes per day and 5 eDMs per week with precise segmentation and retargeting strategies, managed and monitored channel performance regularly
-- **Data Analysis**: Conducted rigorous and frequent data analysis from dashboards on initiative campaign performance and concluded insights on follow-up and potential action items to boost GMV, sessions, first-time buyers etc.
-- **Cross-team Communication**: Worked closely with teams from the HK office and other regions for marketing campaigns and offline campaigns
+- Planned and executed cross-regional online marketing campaigns across HK, Taiwan, and Japan to drive brand awareness and GMV growth
+- Managed 5 daily app push notifications and 5 weekly eDMs with audience segmentation and retargeting strategies, monitoring channel performance regularly
+- Analysed campaign dashboards regularly to extract performance insights and identify actionable opportunities to boost GMV, sessions, and first-time buyer acquisition
+- Collaborated with HK and regional teams to align and execute integrated online and offline marketing campaigns
 
 ## Education
 
@@ -38,4 +44,3 @@ Digital marketing and e-commerce specialist with 2.5 years of experience across 
     - Level N2 (passed, the Japanese-Language Proficiency Test)
     - IELTS band score: 7.5/9.0
 - Skills: Translation, Project management, Cross-functional collaboration, Data-driven analysis, Multilingual communication, Integrated campaign planning
-- 
